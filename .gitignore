@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+address.txt
+proxies.txt
+success.log
+error.log
+result.log
+proxies-*.txt
